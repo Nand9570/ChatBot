@@ -8,9 +8,9 @@ from Champu import ChampuBot
 
 
 start_txt = """**
-✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗖𝗵𝗮𝗺𝗽𝘂 𝗥𝗲𝗽𝗼𝘀 ✪
+✪ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐍𝐘 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧'𝐬 ✪
 
-➲ ᴇᴀsʏ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ✰  
+➲ ᴇᴀsʏ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ✰  
 ➲ ɴᴏ ʙᴀɴ ɪssᴜᴇs ✰  
 ➲ ᴜɴʟɪᴍɪᴛᴇᴅ ᴅʏɴᴏs ✰  
 ➲ 𝟸𝟺/𝟽 ʟᴀɢ-ғʀᴇᴇ ✰
@@ -28,16 +28,16 @@ async def repo(_, m: Message):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{ChampuBot.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/TheChampu"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/TheShivanshu"),
+          InlineKeyboardButton("Nᴀɴᴅ", url="https://t.me/+9779810903571"),
+          InlineKeyboardButton("Cʜᴀᴛᴢᴏɴᴇ", url="https://t.me/NYCreation_Chatzone"),
           ],
                [
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
 
 ],
 [
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/ChampuMusic"),
-              InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/TheChampu/ChatBot")
+              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://t.me/Music4vcbot"),
+              InlineKeyboardButton("M𝟺 Mᴜsɪᴄ", url=f"https://t.me/M4_Music_Bot")
               ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
