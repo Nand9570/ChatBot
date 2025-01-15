@@ -32,7 +32,7 @@ async def repo(_, m: Message):
           InlineKeyboardButton("Cʜᴀᴛᴢᴏɴᴇ", url="https://t.me/NYCreation_Chatzone"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/TMZEROO"),
 
 ],
 [
